@@ -1,4 +1,4 @@
-# PesquisaOrdenacaoDados
+# Pesquisa Ordenação de Dados
 
 ## Bubble Sort 
 Percorre o vetor diversas vezes, e em cada passagem flutua (por isso o termo bubble = bolha) para o topo o maior elemento da sequência.
